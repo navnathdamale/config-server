@@ -9,4 +9,3 @@ eureka:
    
    
 management.security.enabled: false
-management.health.consul.enabled: false
